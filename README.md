@@ -1,3 +1,3 @@
 # modelagem-petshop
 
-<img src= "./petshop-photo.img">
+<img src= "./petshop-photo.PNG">
